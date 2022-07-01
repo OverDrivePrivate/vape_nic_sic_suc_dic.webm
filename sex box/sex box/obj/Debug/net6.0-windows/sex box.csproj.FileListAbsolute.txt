@@ -1,0 +1,17 @@
+C:\Users\Nlicc\source\repos\sex box\sex box\obj\Debug\net6.0-windows\sex box.csproj.AssemblyReference.cache
+C:\Users\Nlicc\source\repos\sex box\sex box\obj\Debug\net6.0-windows\sex_box.Form1.resources
+C:\Users\Nlicc\source\repos\sex box\sex box\obj\Debug\net6.0-windows\sex box.csproj.GenerateResource.cache
+C:\Users\Nlicc\source\repos\sex box\sex box\obj\Debug\net6.0-windows\sex box.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nlicc\source\repos\sex box\sex box\obj\Debug\net6.0-windows\sex box.AssemblyInfoInputs.cache
+C:\Users\Nlicc\source\repos\sex box\sex box\obj\Debug\net6.0-windows\sex box.AssemblyInfo.cs
+C:\Users\Nlicc\source\repos\sex box\sex box\obj\Debug\net6.0-windows\sex box.csproj.CoreCompileInputs.cache
+C:\Users\Nlicc\source\repos\sex box\sex box\bin\Debug\net6.0-windows\sex box.exe
+C:\Users\Nlicc\source\repos\sex box\sex box\bin\Debug\net6.0-windows\sex box.deps.json
+C:\Users\Nlicc\source\repos\sex box\sex box\bin\Debug\net6.0-windows\sex box.runtimeconfig.json
+C:\Users\Nlicc\source\repos\sex box\sex box\bin\Debug\net6.0-windows\sex box.dll
+C:\Users\Nlicc\source\repos\sex box\sex box\bin\Debug\net6.0-windows\sex box.pdb
+C:\Users\Nlicc\source\repos\sex box\sex box\obj\Debug\net6.0-windows\sex box.dll
+C:\Users\Nlicc\source\repos\sex box\sex box\obj\Debug\net6.0-windows\refint\sex box.dll
+C:\Users\Nlicc\source\repos\sex box\sex box\obj\Debug\net6.0-windows\sex box.pdb
+C:\Users\Nlicc\source\repos\sex box\sex box\obj\Debug\net6.0-windows\sex box.genruntimeconfig.cache
+C:\Users\Nlicc\source\repos\sex box\sex box\obj\Debug\net6.0-windows\ref\sex box.dll

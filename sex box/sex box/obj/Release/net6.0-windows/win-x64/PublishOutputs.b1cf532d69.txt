@@ -1,0 +1,2 @@
+C:\Users\xande\Desktop\sex box-20220628T184314Z-001\sex box\bin\Release\net6.0-windows\publish\win-x64\sex box.pdb
+C:\Users\xande\Desktop\sex box-20220628T184314Z-001\sex box\bin\Release\net6.0-windows\publish\win-x64\sex box.exe

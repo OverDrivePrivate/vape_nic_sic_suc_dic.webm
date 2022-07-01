@@ -1,0 +1,17 @@
+C:\Users\xande\Desktop\sex box-20220628T184314Z-001\sex box\bin\Release\net6.0-windows\sex box.exe
+C:\Users\xande\Desktop\sex box-20220628T184314Z-001\sex box\bin\Release\net6.0-windows\sex box.deps.json
+C:\Users\xande\Desktop\sex box-20220628T184314Z-001\sex box\bin\Release\net6.0-windows\sex box.runtimeconfig.json
+C:\Users\xande\Desktop\sex box-20220628T184314Z-001\sex box\bin\Release\net6.0-windows\sex box.dll
+C:\Users\xande\Desktop\sex box-20220628T184314Z-001\sex box\bin\Release\net6.0-windows\sex box.pdb
+C:\Users\xande\Desktop\sex box-20220628T184314Z-001\sex box\obj\Release\net6.0-windows\sex box.csproj.AssemblyReference.cache
+C:\Users\xande\Desktop\sex box-20220628T184314Z-001\sex box\obj\Release\net6.0-windows\sex_box.Form1.resources
+C:\Users\xande\Desktop\sex box-20220628T184314Z-001\sex box\obj\Release\net6.0-windows\sex box.csproj.GenerateResource.cache
+C:\Users\xande\Desktop\sex box-20220628T184314Z-001\sex box\obj\Release\net6.0-windows\sex box.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\xande\Desktop\sex box-20220628T184314Z-001\sex box\obj\Release\net6.0-windows\sex box.AssemblyInfoInputs.cache
+C:\Users\xande\Desktop\sex box-20220628T184314Z-001\sex box\obj\Release\net6.0-windows\sex box.AssemblyInfo.cs
+C:\Users\xande\Desktop\sex box-20220628T184314Z-001\sex box\obj\Release\net6.0-windows\sex box.csproj.CoreCompileInputs.cache
+C:\Users\xande\Desktop\sex box-20220628T184314Z-001\sex box\obj\Release\net6.0-windows\sex box.dll
+C:\Users\xande\Desktop\sex box-20220628T184314Z-001\sex box\obj\Release\net6.0-windows\refint\sex box.dll
+C:\Users\xande\Desktop\sex box-20220628T184314Z-001\sex box\obj\Release\net6.0-windows\sex box.pdb
+C:\Users\xande\Desktop\sex box-20220628T184314Z-001\sex box\obj\Release\net6.0-windows\sex box.genruntimeconfig.cache
+C:\Users\xande\Desktop\sex box-20220628T184314Z-001\sex box\obj\Release\net6.0-windows\ref\sex box.dll

@@ -1,0 +1,17 @@
+C:\Users\xande\Desktop\sex box-20220628T184314Z-001\sex box\bin\Release\net6.0-windows\win-x64\sex box.exe
+C:\Users\xande\Desktop\sex box-20220628T184314Z-001\sex box\bin\Release\net6.0-windows\win-x64\sex box.deps.json
+C:\Users\xande\Desktop\sex box-20220628T184314Z-001\sex box\bin\Release\net6.0-windows\win-x64\sex box.runtimeconfig.json
+C:\Users\xande\Desktop\sex box-20220628T184314Z-001\sex box\bin\Release\net6.0-windows\win-x64\sex box.dll
+C:\Users\xande\Desktop\sex box-20220628T184314Z-001\sex box\bin\Release\net6.0-windows\win-x64\sex box.pdb
+C:\Users\xande\Desktop\sex box-20220628T184314Z-001\sex box\obj\Release\net6.0-windows\win-x64\sex box.csproj.AssemblyReference.cache
+C:\Users\xande\Desktop\sex box-20220628T184314Z-001\sex box\obj\Release\net6.0-windows\win-x64\sex_box.Form1.resources
+C:\Users\xande\Desktop\sex box-20220628T184314Z-001\sex box\obj\Release\net6.0-windows\win-x64\sex box.csproj.GenerateResource.cache
+C:\Users\xande\Desktop\sex box-20220628T184314Z-001\sex box\obj\Release\net6.0-windows\win-x64\sex box.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\xande\Desktop\sex box-20220628T184314Z-001\sex box\obj\Release\net6.0-windows\win-x64\sex box.AssemblyInfoInputs.cache
+C:\Users\xande\Desktop\sex box-20220628T184314Z-001\sex box\obj\Release\net6.0-windows\win-x64\sex box.AssemblyInfo.cs
+C:\Users\xande\Desktop\sex box-20220628T184314Z-001\sex box\obj\Release\net6.0-windows\win-x64\sex box.csproj.CoreCompileInputs.cache
+C:\Users\xande\Desktop\sex box-20220628T184314Z-001\sex box\obj\Release\net6.0-windows\win-x64\sex box.dll
+C:\Users\xande\Desktop\sex box-20220628T184314Z-001\sex box\obj\Release\net6.0-windows\win-x64\refint\sex box.dll
+C:\Users\xande\Desktop\sex box-20220628T184314Z-001\sex box\obj\Release\net6.0-windows\win-x64\sex box.pdb
+C:\Users\xande\Desktop\sex box-20220628T184314Z-001\sex box\obj\Release\net6.0-windows\win-x64\sex box.genruntimeconfig.cache
+C:\Users\xande\Desktop\sex box-20220628T184314Z-001\sex box\obj\Release\net6.0-windows\win-x64\ref\sex box.dll
